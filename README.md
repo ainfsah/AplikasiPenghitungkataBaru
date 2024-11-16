@@ -38,10 +38,11 @@ Aplikasi ini juga memiliki fitur pencarian kata tertentu dalam teks dan opsi unt
 ## Demo
 
 Berikut adalah tampilan dan penggunaan aplikasi Penghitung Kata:
-- **[Link atau screenshot demo jika ada]**
+![DEMO](img/PenghitungKata.gif)
+
 
 ## Catatan
 - Aplikasi ini hanya mendukung file output dalam format `.txt`.
-- Untuk penggunaan di sistem operasi selain Windows, beberapa tampilan mungkin sedikit berbeda karena perbedaan tema default.
+
 
 
